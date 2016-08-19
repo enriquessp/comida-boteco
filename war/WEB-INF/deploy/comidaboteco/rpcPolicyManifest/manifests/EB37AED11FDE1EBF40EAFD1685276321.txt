@@ -1,0 +1,2 @@
+serviceClass: br.com.boteco.client.GreetingService
+path: 29829D2B77DFC8C0FEB9EDC8C41BF51A.gwt.rpc
